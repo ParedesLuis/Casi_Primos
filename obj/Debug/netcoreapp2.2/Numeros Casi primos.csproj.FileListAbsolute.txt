@@ -1,0 +1,11 @@
+C:\Users\Xgaming\Desktop\Numeros Casi primos\bin\Debug\netcoreapp2.2\Numeros Casi primos.deps.json
+C:\Users\Xgaming\Desktop\Numeros Casi primos\bin\Debug\netcoreapp2.2\Numeros Casi primos.runtimeconfig.json
+C:\Users\Xgaming\Desktop\Numeros Casi primos\bin\Debug\netcoreapp2.2\Numeros Casi primos.runtimeconfig.dev.json
+C:\Users\Xgaming\Desktop\Numeros Casi primos\bin\Debug\netcoreapp2.2\Numeros Casi primos.dll
+C:\Users\Xgaming\Desktop\Numeros Casi primos\bin\Debug\netcoreapp2.2\Numeros Casi primos.pdb
+C:\Users\Xgaming\Desktop\Numeros Casi primos\obj\Debug\netcoreapp2.2\Numeros Casi primos.csprojAssemblyReference.cache
+C:\Users\Xgaming\Desktop\Numeros Casi primos\obj\Debug\netcoreapp2.2\Numeros Casi primos.csproj.CoreCompileInputs.cache
+C:\Users\Xgaming\Desktop\Numeros Casi primos\obj\Debug\netcoreapp2.2\Numeros Casi primos.AssemblyInfoInputs.cache
+C:\Users\Xgaming\Desktop\Numeros Casi primos\obj\Debug\netcoreapp2.2\Numeros Casi primos.AssemblyInfo.cs
+C:\Users\Xgaming\Desktop\Numeros Casi primos\obj\Debug\netcoreapp2.2\Numeros Casi primos.dll
+C:\Users\Xgaming\Desktop\Numeros Casi primos\obj\Debug\netcoreapp2.2\Numeros Casi primos.pdb
